@@ -14,5 +14,3 @@ def draw_pattern():
     print(segment4 * repeats) ## Верт. полосы
     print(segment1 * repeats) ## Горизонтальная полоса
 
-
-draw_pattern()
