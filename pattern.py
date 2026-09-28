@@ -1,6 +1,6 @@
 def draw_pattern():
     repeats = 5
-    width = 40
+    width = 30
     thickness = 2
     gap1 = (width//2) - (thickness//2) ## Расстояние до центральной верт. полосы
     gap2 = (width//4) - (thickness//2) ## Расстояние до нижних верт. полос
